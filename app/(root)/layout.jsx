@@ -1,13 +1,13 @@
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
-  return (
-    <main>
-        Sidebar
-        {children}
-    </main>
-  );
-}
+// export default function RootLayout({
+//   children,
+// }: Readonly<{
+//   children: React.ReactNode;
+// }>) {
+//   return (
+//     <main>
+//         Sidebar
+//         {children}
+//     </main>
+//   );
+// }
